@@ -9,6 +9,14 @@
 - arduino uno -> arduino IDE에서 file/examples/firmata/standardfirmata uploaded
 - 릴레이모듈 -> 3번에 연결
 
+### 파일 설명
+controller.py >>> pyfirmata2를 이용하여 arduino를 제어
+hello.py >>> 실행파일, 웹캠의 화면에서 detector사용
+
+'''
+python hello.py
+'''
+
 -------
 ## 실제 동작
 ![Image](https://github.com/user-attachments/assets/aef97cd2-99fb-4b71-a6f4-d5cd459eb353)
