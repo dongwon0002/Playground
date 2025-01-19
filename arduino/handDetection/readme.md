@@ -13,9 +13,9 @@
 controller.py >>> pyfirmata2를 이용하여 arduino를 제어
 hello.py >>> 실행파일, 웹캠의 화면에서 detector사용
 
-'''
+```
 python hello.py
-'''
+```
 
 -------
 ## 실제 동작
