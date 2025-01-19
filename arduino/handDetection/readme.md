@@ -16,6 +16,27 @@ hello.py >>> 실행파일, 웹캠의 화면에서 detector사용
 ```
 python hello.py
 ```
+-----
+```
+certifi==2024.12.14
+charset-normalizer==3.4.1
+cvzone==1.6.1
+docopt==0.6.2
+idna==3.10
+joblib==1.4.2
+numpy==2.2.1
+opencv-python==4.11.0.86
+pipreqs==0.4.13
+pyFirmata==1.1.0
+pyFirmata2==2.5.1
+pyserial==3.5
+requests==2.32.3
+scikit-learn==1.6.1
+scipy==1.15.1
+threadpoolctl==3.5.0
+urllib3==2.3.0
+yarg==0.1.10
+```
 
 -------
 ## 실제 동작
