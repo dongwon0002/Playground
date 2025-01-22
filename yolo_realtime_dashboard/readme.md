@@ -10,7 +10,11 @@
 
 ------------------------ 
 class별 count barplot추가 
-![Image](https://github.com/user-attachments/assets/2a374c56-b6ac-4b5a-9740-9f3d50b06984) | ![Image](https://github.com/user-attachments/assets/251cae96-4833-4416-8f3e-f33087bad8ca)
+
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/2a374c56-b6ac-4b5a-9740-9f3d50b06984" width="45%" />
+  <img src="https://github.com/user-attachments/assets/251cae96-4833-4416-8f3e-f33087bad8ca" width="45%" />
+</div>
 
 ---------
 
