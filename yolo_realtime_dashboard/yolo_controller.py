@@ -5,6 +5,7 @@ from sql_db import DatabaseHandler
 comport='COM5'
 
 logger = DatabaseHandler()
+logger.initialize_db()
 board=pyfirmata2.Arduino(comport)
 
 
