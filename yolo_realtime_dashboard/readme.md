@@ -8,9 +8,9 @@
 | 0     | 1430 | 2025-01-22 22:50:33 | dog        | 0.59       | 9     | 161 | 198 | 435 | 421 |
 | 1     | 1429 | 2025-01-22 22:50:32 | dog        | 0.54       | 8     | 163 | 200 | 435 | 417 |
 
-------------------------
-![Image](https://github.com/user-attachments/assets/2a374c56-b6ac-4b5a-9740-9f3d50b06984)
+------------------------ | class별 count barplot추가 
+![Image](https://github.com/user-attachments/assets/2a374c56-b6ac-4b5a-9740-9f3d50b06984) | ![Image](https://github.com/user-attachments/assets/251cae96-4833-4416-8f3e-f33087bad8ca)
 
 ---------
-class별 count barplot추가
-![Image](https://github.com/user-attachments/assets/251cae96-4833-4416-8f3e-f33087bad8ca)
+
+
